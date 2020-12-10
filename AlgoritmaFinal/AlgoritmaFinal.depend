@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590951109 source:c:\users\emre\desktop\deneme_ilk\deneme_2\algoritmafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
